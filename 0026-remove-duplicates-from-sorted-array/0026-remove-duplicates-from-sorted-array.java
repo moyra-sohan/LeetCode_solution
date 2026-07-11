@@ -5,8 +5,7 @@ class Solution {
             if(i<nums.length-1 && nums[i]==nums[i+1]){
                 continue;
             }
-            nums[k]=nums[i];
-            k++;
+            nums[k++]=nums[i];
         }
         return k; 
     }
