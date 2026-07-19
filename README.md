@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0027-remove-element) |
 | [1331-rank-transform-of-an-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1331-rank-transform-of-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0067-add-binary) |
 ## Stack
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0067-add-binary) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
