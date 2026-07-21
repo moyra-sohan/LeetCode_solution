@@ -7,6 +7,8 @@ class Solution {
             year -= 1;
         }
 
+        // Zellers Rules Approch
+
         int h = (day + (13 * (month + 1)) / 5 + year + (year / 4) - (year / 100) + (year / 400)) % 7;
 
         return days[h];
