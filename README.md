@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0189-rotate-array) |
