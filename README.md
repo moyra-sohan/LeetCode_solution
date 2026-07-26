@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1185-day-of-the-week](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1185-day-of-the-week) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
