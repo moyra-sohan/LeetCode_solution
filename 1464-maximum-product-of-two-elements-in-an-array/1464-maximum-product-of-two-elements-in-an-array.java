@@ -8,9 +8,7 @@ class Solution {
                 Secondbig = bigNum;
                 bigNum = num; 
             }else{
-                if(num > Secondbig){
-                    Secondbig = num;
-                }
+               Secondbig = (num > Secondbig) ? num : Secondbig;
             }
         }
         return (bigNum-1)*(Secondbig-1);
