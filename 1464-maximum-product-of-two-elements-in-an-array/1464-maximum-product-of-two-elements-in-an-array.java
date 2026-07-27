@@ -8,7 +8,9 @@ class Solution {
                 Secondbig = bigNum;
                 bigNum = num; 
             }else{
-                Secondbig = Math.max(Secondbig, num);
+                if(num > Secondbig){
+                    Secondbig = num;
+                }
             }
         }
         return (bigNum-1)*(Secondbig-1);
