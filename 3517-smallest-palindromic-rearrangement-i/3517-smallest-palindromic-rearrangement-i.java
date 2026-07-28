@@ -2,9 +2,7 @@ class Solution {
     public String smallestPalindrome(String s) {
         int n = s.length();
         int mid = s.length()/2;
-        if(s.length()==1)
-            return s;
-        
+
         char arr [] = s.toCharArray();
 
         Arrays.sort(arr, 0, mid);
