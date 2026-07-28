@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0067-add-binary) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
