@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1331-rank-transform-of-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0486-predict-the-winner) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1185-day-of-the-week](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1185-day-of-the-week) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
