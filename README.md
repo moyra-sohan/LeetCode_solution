@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1140-stone-game-ii) |
 | [1185-day-of-the-week](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1185-day-of-the-week) |
+| [1510-stone-game-iv](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1510-stone-game-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -218,4 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
