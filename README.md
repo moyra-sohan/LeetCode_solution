@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0189-rotate-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0877-stone-game) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0202-happy-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
