@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/moyra-sohan/LeetCode_solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0191-number-of-1-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Graph Theory
 |  |
 | ------- |
