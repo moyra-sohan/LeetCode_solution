@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0231-power-of-two) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0877-stone-game) |
