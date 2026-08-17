@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1563-stone-game-v](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/moyra-sohan/LeetCode_solution/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/moyra-sohan/LeetCode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1140-stone-game-ii) |
 | [1185-day-of-the-week](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1185-day-of-the-week) |
 | [1510-stone-game-iv](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/moyra-sohan/LeetCode_solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/moyra-sohan/LeetCode_solution/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
 |  |
