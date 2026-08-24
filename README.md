@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0067-add-binary) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0206-reverse-linked-list) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0877-stone-game) |
