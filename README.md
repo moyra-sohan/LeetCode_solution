@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-day-of-the-week](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1185-day-of-the-week) |
 | [1510-stone-game-iv](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/moyra-sohan/LeetCode_solution/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/moyra-sohan/LeetCode_solution/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
